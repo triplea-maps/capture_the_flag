@@ -1,0 +1,3 @@
+map_name: capture_the_flag
+games:
+- {game_name: Capture The Flag, file_name: capture_the_flag.xml}
